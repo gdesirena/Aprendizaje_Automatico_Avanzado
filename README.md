@@ -10,7 +10,7 @@ sistemas de información.*
     2. Librerías básicas para Aprendizaje Auntomático en Python.
     4. Preprocesamiento y Exploración de Datos.
         
-`Módulo 1.` **Modelos de Aprendizaje No Supervizado.**
+`Módulo 1.` **Modelos de Aprendizaje No Supervisado.**
 
     1. Búsqueda de Patrones (algoritmos de clustering) 
         - K medias.
@@ -25,7 +25,7 @@ sistemas de información.*
             
    
 
-`Módulo 2.` **Modelos de Aprendizaje Supervizado.**
+`Módulo 2.` **Modelos de Aprendizaje Supervisado.**
     
     1. Equilibrio entre Varianza y Sesgo.
         - Validación cruzada.
